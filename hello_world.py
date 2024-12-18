@@ -1,4 +1,4 @@
-print("Kuka ruton kusipää tätä säätää!?")
+print("Hello world!")
 
 print("Hello from feature")
 
