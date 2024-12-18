@@ -1,5 +1,5 @@
-print("Hello world!")
+print("oispa tää selkeä")
 
-print("Hello from feature")
+print("kun tietäisi mitä ")
 
-print("Hello from release")
+print("tässä on vikana")
